@@ -1,0 +1,1390 @@
+<player>
+	<name>Adrian Peterson</name>
+	<team>Min RB</team>
+	<points>266</points>
+</player>
+<player>
+	<name>Arian Foster</name>
+	<team>Hou RB</team>
+	<points>264</points>
+</player>
+<player>
+	<name>Chris Johnson</name>
+	<team>Ten RB</team>
+	<points>255</points>
+</player>
+<player>
+	<name>Jamaal Charles</name>
+	<team>KC RB</team>
+	<points>243</points>
+</player>
+<player>
+	<name>Maurice Jones-Drew</name>
+	<team>Jac RB</team>
+	<points>238</points>
+</player>
+<player>
+	<name>Ray Rice</name>
+	<team>Bal RB</team>
+	<points>238</points>
+</player>
+<player>
+	<name>Aaron Rodgers</name>
+	<team>GB QB</team>
+	<points>311</points>
+</player>
+<player>
+	<name>LeSean McCoy</name>
+	<team>Phi RB</team>
+	<points>232</points>
+</player>
+<player>
+	<name>Andre Johnson</name>
+	<team>Hou WR</team>
+	<points>203</points>
+</player>
+<player>
+	<name>Michael Vick</name>
+	<team>Phi QB</team>
+	<points>282</points>
+</player>
+<player>
+	<name>Roddy White</name>
+	<team>Atl WR</team>
+	<points>193</points>
+</player>
+<player>
+	<name>Rashard Mendenhall</name>
+	<team>Pit RB</team>
+	<points>222</points>
+</player>
+<player>
+	<name>Frank Gore</name>
+	<team>SF RB</team>
+	<points>216</points>
+</player>
+<player>
+	<name>Greg Jennings</name>
+	<team>GB WR</team>
+	<points>189</points>
+</player>
+<player>
+	<name>Michael Turner</name>
+	<team>Atl RB</team>
+	<points>203</points>
+</player>
+<player>
+	<name>Drew Brees</name>
+	<team>NO QB</team>
+	<points>281</points>
+</player>
+<player>
+	<name>Hakeem Nicks</name>
+	<team>NYG WR</team>
+	<points>189</points>
+</player>
+<player>
+	<name>Calvin Johnson</name>
+	<team>Det WR</team>
+	<points>185</points>
+</player>
+<player>
+	<name>Steven Jackson</name>
+	<team>StL RB</team>
+	<points>203</points>
+</player>
+<player>
+	<name>Tom Brady</name>
+	<team>NE QB</team>
+	<points>280</points>
+</player>
+<player>
+	<name>Darren McFadden</name>
+	<team>Oak RB</team>
+	<points>201</points>
+</player>
+<player>
+	<name>Peyton Manning</name>
+	<team>Ind QB</team>
+	<points>274</points>
+</player>
+<player>
+	<name>Larry Fitzgerald</name>
+	<team>Ari WR</team>
+	<points>187</points>
+</player>
+<player>
+	<name>Mike Wallace</name>
+	<team>Pit WR</team>
+	<points>182</points>
+</player>
+<player>
+	<name>Peyton Hillis</name>
+	<team>Cle RB</team>
+	<points>201</points>
+</player>
+<player>
+	<name>Vincent Jackson</name>
+	<team>SD WR</team>
+	<points>164</points>
+</player>
+<player>
+	<name>Matt Forte</name>
+	<team>Chi RB</team>
+	<points>194</points>
+</player>
+<player>
+	<name>Reggie Wayne</name>
+	<team>Ind WR</team>
+	<points>164</points>
+</player>
+<player>
+	<name>Philip Rivers</name>
+	<team>SD QB</team>
+	<points>274</points>
+</player>
+<player>
+	<name>DeAngelo Williams</name>
+	<team>Car RB</team>
+	<points>196</points>
+</player>
+<player>
+	<name>Miles Austin</name>
+	<team>Dal WR</team>
+	<points>164</points>
+</player>
+<player>
+	<name>DeSean Jackson</name>
+	<team>Phi WR</team>
+	<points>162</points>
+</player>
+<player>
+	<name>Ahmad Bradshaw</name>
+	<team>NYG RB</team>
+	<points>188</points>
+</player>
+<player>
+	<name>Dez Bryant</name>
+	<team>Dal WR</team>
+	<points>162</points>
+</player>
+<player>
+	<name>Knowshon Moreno</name>
+	<team>Den RB</team>
+	<points>172</points>
+</player>
+<player>
+	<name>Antonio Gates</name>
+	<team>SD TE</team>
+	<points>164</points>
+</player>
+<player>
+	<name>Dwayne Bowe</name>
+	<team>KC WR</team>
+	<points>163</points>
+</player>
+<player>
+	<name>Jonathan Stewart</name>
+	<team>Car RB</team>
+	<points>171</points>
+</player>
+<player>
+	<name>Mike Williams</name>
+	<team>TB WR</team>
+	<points>149</points>
+</player>
+<player>
+	<name>LeGarrette Blount</name>
+	<team>TB RB</team>
+	<points>172</points>
+</player>
+<player>
+	<name>Jeremy Maclin</name>
+	<team>Phi WR</team>
+	<points>149</points>
+</player>
+<player>
+	<name>Tony Romo</name>
+	<team>Dal QB</team>
+	<points>254</points>
+</player>
+<player>
+	<name>Marques Colston</name>
+	<team>NO WR</team>
+	<points>146</points>
+</player>
+<player>
+	<name>Jahvid Best</name>
+	<team>Det RB</team>
+	<points>171</points>
+</player>
+<player>
+	<name>BenJarvus Green-Ellis</name>
+	<team>NE RB</team>
+	<points>162</points>
+</player>
+<player>
+	<name>Brandon Lloyd</name>
+	<team>Den WR</team>
+	<points>141</points>
+</player>
+<player>
+	<name>Matt Schaub</name>
+	<team>Hou QB</team>
+	<points>250</points>
+</player>
+<player>
+	<name>Felix Jones</name>
+	<team>Dal RB</team>
+	<points>165</points>
+</player>
+<player>
+	<name>Santonio Holmes</name>
+	<team>NYJ WR</team>
+	<points>143</points>
+</player>
+<player>
+	<name>Dallas Clark</name>
+	<team>Ind TE</team>
+	<points>150</points>
+</player>
+<player>
+	<name>Ryan Grant</name>
+	<team>GB RB</team>
+	<points>164</points>
+</player>
+<player>
+	<name>Kenny Britt</name>
+	<team>Ten WR</team>
+	<points>133</points>
+</player>
+<player>
+	<name>Ben Roethlisberger</name>
+	<team>Pit QB</team>
+	<points>249</points>
+</player>
+<player>
+	<name>Ryan Mathews</name>
+	<team>SD RB</team>
+	<points>172</points>
+</player>
+<player>
+	<name>Steve Johnson</name>
+	<team>Buf WR</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Jason Witten</name>
+	<team>Dal TE</team>
+	<points>136</points>
+</player>
+<player>
+	<name>Percy Harvin</name>
+	<team>Min WR</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Cedric Benson</name>
+	<team>Cin RB</team>
+	<points>155</points>
+</player>
+<player>
+	<name>Wes Welker</name>
+	<team>NE WR</team>
+	<points>122</points>
+</player>
+<player>
+	<name>Mario Manningham</name>
+	<team>NYG WR</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Jermichael Finley</name>
+	<team>GB TE</team>
+	<points>135</points>
+</player>
+<player>
+	<name>Fred Jackson</name>
+	<team>Buf RB</team>
+	<points>156</points>
+</player>
+<player>
+	<name>Anquan Boldin</name>
+	<team>Bal WR</team>
+	<points>128</points>
+</player>
+<player>
+	<name>Josh Freeman</name>
+	<team>TB QB</team>
+	<points>247</points>
+</player>
+<player>
+	<name>Shonn Greene</name>
+	<team>NYJ RB</team>
+	<points>157</points>
+</player>
+<player>
+	<name>Brandon Marshall</name>
+	<team>Mia WR</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Mark Ingram</name>
+	<team>NO RB</team>
+	<points>142</points>
+</player>
+<player>
+	<name>Austin Collie</name>
+	<team>Ind WR</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Vernon Davis</name>
+	<team>SF TE</team>
+	<points>135</points>
+</player>
+<player>
+	<name>Daniel Thomas</name>
+	<team>Mia RB</team>
+	<points>144</points>
+</player>
+<player>
+	<name>Sidney Rice</name>
+	<team>Sea WR</team>
+	<points>119</points>
+</player>
+<player>
+	<name>Marshawn Lynch</name>
+	<team>Sea RB</team>
+	<points>148</points>
+</player>
+<player>
+	<name>Matt Ryan</name>
+	<team>Atl QB</team>
+	<points>242</points>
+</player>
+<player>
+	<name>Pierre Garcon</name>
+	<team>Ind WR</team>
+	<points>116</points>
+</player>
+<player>
+	<name>Beanie Wells</name>
+	<team>Ari RB</team>
+	<points>150</points>
+</player>
+<player>
+	<name>Pierre Thomas</name>
+	<team>NO RB</team>
+	<points>134</points>
+</player>
+<player>
+	<name>Santana Moss</name>
+	<team>Wsh WR</team>
+	<points>116</points>
+</player>
+<player>
+	<name>Joseph Addai</name>
+	<team>Ind RB</team>
+	<points>142</points>
+</player>
+<player>
+	<name>Eli Manning</name>
+	<team>NYG QB</team>
+	<points>233</points>
+</player>
+<player>
+	<name>Steve Smith</name>
+	<team>Car WR</team>
+	<points>119</points>
+</player>
+<player>
+	<name>Ryan Williams</name>
+	<team>Ari RB</team>
+	<points>120</points>
+</player>
+<player>
+	<name>A.J. Green</name>
+	<team>Cin WR</team>
+	<points>109</points>
+</player>
+<player>
+	<name>James Starks</name>
+	<team>GB RB</team>
+	<points>124</points>
+</player>
+<player>
+	<name>Johnny Knox</name>
+	<team>Chi WR</team>
+	<points>107</points>
+</player>
+<player>
+	<name>Malcom Floyd</name>
+	<team>SD WR</team>
+	<points>109</points>
+</player>
+<player>
+	<name>Joe Flacco</name>
+	<team>Bal QB</team>
+	<points>231</points>
+</player>
+<player>
+	<name>Owen Daniels</name>
+	<team>Hou TE</team>
+	<points>122</points>
+</player>
+<player>
+	<name>Mike Tolbert</name>
+	<team>SD RB</team>
+	<points>136</points>
+</player>
+<player>
+	<name>Mike Thomas</name>
+	<team>Jac WR</team>
+	<points>109</points>
+</player>
+<player>
+	<name>C.J. Spiller</name>
+	<team>Buf RB</team>
+	<points>120</points>
+</player>
+<player>
+	<name>Chad Ochocinco</name>
+	<team>NE WR</team>
+	<points>106</points>
+</player>
+<player>
+	<name>Michael Bush</name>
+	<team>Oak RB</team>
+	<points>120</points>
+</player>
+<player>
+	<name>Marcedes Lewis</name>
+	<team>Jac TE</team>
+	<points>113</points>
+</player>
+<player>
+	<name>Lance Moore</name>
+	<team>NO WR</team>
+	<points>111</points>
+</player>
+<player>
+	<name>Brandon Jacobs</name>
+	<team>NYG RB</team>
+	<points>118</points>
+</player>
+<player>
+	<name>Jordy Nelson</name>
+	<team>GB WR</team>
+	<points>109</points>
+</player>
+<player>
+	<name>Ryan Torain</name>
+	<team>Wsh RB</team>
+	<points>140</points>
+</player>
+<player>
+	<name>Roy Williams</name>
+	<team>Chi WR</team>
+	<points>113</points>
+</player>
+<player>
+	<name>Sam Bradford</name>
+	<team>StL QB</team>
+	<points>214</points>
+</player>
+<player>
+	<name>Tim Hightower</name>
+	<team>Wsh RB</team>
+	<points>102</points>
+</player>
+<player>
+	<name>Jay Cutler</name>
+	<team>Chi QB</team>
+	<points>211</points>
+</player>
+<player>
+	<name>Jerome Harrison</name>
+	<team>Det RB</team>
+	<points>90</points>
+</player>
+<player>
+	<name>Robert Meachem</name>
+	<team>NO WR</team>
+	<points>110</points>
+</player>
+<player>
+	<name>Matt Cassel</name>
+	<team>KC QB</team>
+	<points>203</points>
+</player>
+<player>
+	<name>Kellen Winslow</name>
+	<team>TB TE</team>
+	<points>107</points>
+</player>
+<player>
+	<name>Braylon Edwards</name>
+	<team>SF WR</team>
+	<points>99</points>
+</player>
+<player>
+	<name>Matthew Stafford</name>
+	<team>Det QB</team>
+	<points>195</points>
+</player>
+<player>
+	<name>Greg Olsen</name>
+	<team>Car TE</team>
+	<points>105</points>
+</player>
+<player>
+	<name>Kevin Kolb</name>
+	<team>Ari QB</team>
+	<points>193</points>
+</player>
+<player>
+	<name>Willis McGahee</name>
+	<team>Den RB</team>
+	<points>118</points>
+</player>
+<player>
+	<name>Julio Jones</name>
+	<team>Atl WR</team>
+	<points>95</points>
+</player>
+<player>
+	<name>James Jones</name>
+	<team>GB WR</team>
+	<points>100</points>
+</player>
+<player>
+	<name>Zach Miller</name>
+	<team>Sea TE</team>
+	<points>102</points>
+</player>
+<player>
+	<name>LaDainian Tomlinson</name>
+	<team>NYJ RB</team>
+	<points>116</points>
+</player>
+<player>
+	<name>Lee Evans</name>
+	<team>Bal WR</team>
+	<points>112</points>
+</player>
+<player>
+	<name>Plaxico Burress</name>
+	<team>NYJ WR</team>
+	<points>119</points>
+</player>
+<player>
+	<name>Ricky Williams</name>
+	<team>Bal RB</team>
+	<points>109</points>
+</player>
+<player>
+	<name>Jerome Simpson</name>
+	<team>Cin WR</team>
+	<points>85</points>
+</player>
+<player>
+	<name>Reggie Bush</name>
+	<team>Mia RB</team>
+	<points>115</points>
+</player>
+<player>
+	<name>Mark Sanchez</name>
+	<team>NYJ QB</team>
+	<points>196</points>
+</player>
+<player>
+	<name>Jimmy Graham</name>
+	<team>NO TE</team>
+	<points>105</points>
+</player>
+<player>
+	<name>David Garrard</name>
+	<team>Jac QB</team>
+	<points>147</points>
+</player>
+<player>
+	<name>Thomas Jones</name>
+	<team>KC RB</team>
+	<points>112</points>
+</player>
+<player>
+	<name>Mike Williams</name>
+	<team>Sea WR</team>
+	<points>86</points>
+</player>
+<player>
+	<name>Donovan McNabb</name>
+	<team>Min QB</team>
+	<points>172</points>
+</player>
+<player>
+	<name>Deion Branch</name>
+	<team>NE WR</team>
+	<points>90</points>
+</player>
+<player>
+	<name>Brandon Pettigrew</name>
+	<team>Det TE</team>
+	<points>93</points>
+</player>
+<player>
+	<name>Hines Ward</name>
+	<team>Pit WR</team>
+	<points>96</points>
+</player>
+<player>
+	<name>Rob Gronkowski</name>
+	<team>NE TE</team>
+	<points>91</points>
+</player>
+<player>
+	<name>Davone Bess</name>
+	<team>Mia WR</team>
+	<points>97</points>
+</player>
+<player>
+	<name>Kyle Orton</name>
+	<team>Den QB</team>
+	<points>185</points>
+</player>
+<player>
+	<name>Jason Campbell</name>
+	<team>Oak QB</team>
+	<points>195</points>
+</player>
+<player>
+	<name>Ryan Fitzpatrick</name>
+	<team>Buf QB</team>
+	<points>146</points>
+</player>
+<player>
+	<name>Tony Gonzalez</name>
+	<team>Atl TE</team>
+	<points>87</points>
+</player>
+<player>
+	<name>Danny Woodhead</name>
+	<team>NE RB</team>
+	<points>102</points>
+</player>
+<player>
+	<name>Montario Hardesty</name>
+	<team>Cle RB</team>
+	<points>89</points>
+</player>
+<player>
+	<name>Mike Sims-Walker</name>
+	<team>StL WR</team>
+	<points>91</points>
+</player>
+<player>
+	<name>Ronnie Brown</name>
+	<team>Phi RB</team>
+	<points>84</points>
+</player>
+<player>
+	<name>Nate Kaeding</name>
+	<team>SD K</team>
+	<points>148</points>
+</player>
+<player>
+	<name>Neil Rackers</name>
+	<team>Hou K</team>
+	<points>141</points>
+</player>
+<player>
+	<name>Josh Brown</name>
+	<team>StL K</team>
+	<points>130</points>
+</player>
+<player>
+	<name>Rob Bironas</name>
+	<team>Ten K</team>
+	<points>131</points>
+</player>
+<player>
+	<name>Stephen Gostkowski</name>
+	<team>NE K</team>
+	<points>129</points>
+</player>
+<player>
+	<name>Garrett Hartley</name>
+	<team>NO K</team>
+	<points>125</points>
+</player>
+<player>
+	<name>Billy Cundiff</name>
+	<team>Bal K</team>
+	<points>119</points>
+</player>
+<player>
+	<name>Mason Crosby</name>
+	<team>GB K</team>
+	<points>112</points>
+</player>
+<player>
+	<name>Alex Henery</name>
+	<team>Phi K</team>
+	<points>113</points>
+</player>
+<player>
+	<name>Nick Folk</name>
+	<team>NYJ K</team>
+	<points>106</points>
+</player>
+<player>
+	<name>Darren Sproles</name>
+	<team>NO RB</team>
+	<points>100</points>
+</player>
+<player>
+	<name>Dustin Keller</name>
+	<team>NYJ TE</team>
+	<points>86</points>
+</player>
+<player>
+	<name>Rashad Jennings</name>
+	<team>Jac RB</team>
+	<points>102</points>
+</player>
+<player>
+	<name>Donald Driver</name>
+	<team>GB WR</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Roy Helu</name>
+	<team>Wsh RB</team>
+	<points>112</points>
+</player>
+<player>
+	<name>Derrick Mason</name>
+	<team>NYJ WR</team>
+	<points>66</points>
+</player>
+<player>
+	<name>Ben Tate</name>
+	<team>Hou RB</team>
+	<points>61</points>
+</player>
+<player>
+	<name>Anthony Dixon</name>
+	<team>SF RB</team>
+	<points>70</points>
+</player>
+<player>
+	<name>Shane Vereen</name>
+	<team>NE RB</team>
+	<points>86</points>
+</player>
+<player>
+	<name>DeMarco Murray</name>
+	<team>Dal RB</team>
+	<points>68</points>
+</player>
+<player>
+	<name>Steve Breaston</name>
+	<team>KC WR</team>
+	<points>86</points>
+</player>
+<player>
+	<name>Matt Hasselbeck</name>
+	<team>Ten QB</team>
+	<points>122</points>
+</player>
+<player>
+	<name>Jacoby Jones</name>
+	<team>Hou WR</team>
+	<points>74</points>
+</player>
+<player>
+	<name>Nate Burleson</name>
+	<team>Det WR</team>
+	<points>75</points>
+</player>
+<player>
+	<name>Mike Goodson</name>
+	<team>Car RB</team>
+	<points>81</points>
+</player>
+<player>
+	<name>Jason Snelling</name>
+	<team>Atl RB</team>
+	<points>75</points>
+</player>
+<player>
+	<name>Bernard Scott</name>
+	<team>Cin RB</team>
+	<points>66</points>
+</player>
+<player>
+	<name>Tony Moeaki</name>
+	<team>KC TE</team>
+	<points>86</points>
+</player>
+<player>
+	<name>Toby Gerhart</name>
+	<team>Min RB</team>
+	<points>63</points>
+</player>
+<player>
+	<name>Cadillac Williams</name>
+	<team>StL RB</team>
+	<points>73</points>
+</player>
+<player>
+	<name>Derrick Ward</name>
+	<team>Hou RB</team>
+	<points>72</points>
+</player>
+<player>
+	<name>Danario Alexander</name>
+	<team>StL WR</team>
+	<points>73</points>
+</player>
+<player>
+	<name>Danny Amendola</name>
+	<team>StL WR</team>
+	<points>78</points>
+</player>
+<player>
+	<name>Jared Cook</name>
+	<team>Ten TE</team>
+	<points>83</points>
+</player>
+<player>
+	<name>Marion Barber</name>
+	<team>Chi RB</team>
+	<points>70</points>
+</player>
+<player>
+	<name>Adam Vinatieri</name>
+	<team>Ind K</team>
+	<points>113</points>
+</player>
+<player>
+	<name>Sebastian Janikowski</name>
+	<team>Oak K</team>
+	<points>113</points>
+</player>
+<player>
+	<name>Kevin Walter</name>
+	<team>Hou WR</team>
+	<points>84</points>
+</player>
+<player>
+	<name>Jalen Parmele</name>
+	<team>Bal RB</team>
+	<points>53</points>
+</player>
+<player>
+	<name>Jason Hill</name>
+	<team>Jac WR</team>
+	<points>85</points>
+</player>
+<player>
+	<name>Benjamin Watson</name>
+	<team>Cle TE</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Louis Murphy</name>
+	<team>Oak WR</team>
+	<points>80</points>
+</player>
+<player>
+	<name>Justin Forsett</name>
+	<team>Sea RB</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Aaron Hernandez</name>
+	<team>NE TE</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Colt McCoy</name>
+	<team>Cle QB</team>
+	<points>143</points>
+</player>
+<player>
+	<name>Bernard Berrian</name>
+	<team>Min WR</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Andre Roberts</name>
+	<team>Ari WR</team>
+	<points>72</points>
+</player>
+<player>
+	<name>Anthony Armstrong</name>
+	<team>Wsh WR</team>
+	<points>83</points>
+</player>
+<player>
+	<name>Donald Brown</name>
+	<team>Ind RB</team>
+	<points>64</points>
+</player>
+<player>
+	<name>Randy Moss</name>
+	<team>FA WR</team>
+	<points>90</points>
+</player>
+<player>
+	<name>Javon Ringer</name>
+	<team>Ten RB</team>
+	<points>37</points>
+</player>
+<player>
+	<name>Chad Henne</name>
+	<team>Mia QB</team>
+	<points>132</points>
+</player>
+<player>
+	<name>Todd Heap</name>
+	<team>Ari TE</team>
+	<points>80</points>
+</player>
+<player>
+	<name>Greg Little</name>
+	<team>Cle WR</team>
+	<points>75</points>
+</player>
+<player>
+	<name>Antonio Brown</name>
+	<team>Pit WR</team>
+	<points>69</points>
+</player>
+<player>
+	<name>Brandon Jackson</name>
+	<team>Cle RB</team>
+	<points>52</points>
+</player>
+<player>
+	<name>Kendall Hunter</name>
+	<team>SF RB</team>
+	<points>43</points>
+</player>
+<player>
+	<name>Delone Carter</name>
+	<team>Ind RB</team>
+	<points>62</points>
+</player>
+<player>
+	<name>Jacquizz Rodgers</name>
+	<team>Atl RB</team>
+	<points>71</points>
+</player>
+<player>
+	<name>Alex Green</name>
+	<team>GB RB</team>
+	<points>69</points>
+</player>
+<player>
+	<name>Brent Celek</name>
+	<team>Phi TE</team>
+	<points>81</points>
+</player>
+<player>
+	<name>Jermaine Gresham</name>
+	<team>Cin TE</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Jerious Norwood</name>
+	<team>StL RB</team>
+	<points>75</points>
+</player>
+<player>
+	<name>Roscoe Parrish</name>
+	<team>Buf WR</team>
+	<points>87</points>
+</player>
+<player>
+	<name>Alex Smith</name>
+	<team>SF QB</team>
+	<points>131</points>
+</player>
+<player>
+	<name>Kevin Boss</name>
+	<team>Oak TE</team>
+	<points>80</points>
+</player>
+<player>
+	<name>Earl Bennett</name>
+	<team>Chi WR</team>
+	<points>76</points>
+</player>
+<player>
+	<name>Nate Washington</name>
+	<team>Ten WR</team>
+	<points>83</points>
+</player>
+<player>
+	<name>Earnest Graham</name>
+	<team>TB RB</team>
+	<points>84</points>
+</player>
+<player>
+	<name>Titus Young</name>
+	<team>Det WR</team>
+	<points>74</points>
+</player>
+<player>
+	<name>Isaac Redman</name>
+	<team>Pit RB</team>
+	<points>41</points>
+</player>
+<player>
+	<name>Le'Ron McClain</name>
+	<team>KC RB</team>
+	<points>60</points>
+</player>
+<player>
+	<name>Leonard Hankerson</name>
+	<team>Wsh WR</team>
+	<points>70</points>
+</player>
+<player>
+	<name>Arrelious Benn</name>
+	<team>TB WR</team>
+	<points>82</points>
+</player>
+<player>
+	<name>Jordan Todman</name>
+	<team>SD RB</team>
+	<points>23</points>
+</player>
+<player>
+	<name>Steve Smith</name>
+	<team>Phi WR</team>
+	<points>79</points>
+</player>
+<player>
+	<name>Michael Jenkins</name>
+	<team>Min WR</team>
+	<points>62</points>
+</player>
+<player>
+	<name>Mohamed Massaquoi</name>
+	<team>Cle WR</team>
+	<points>71</points>
+</player>
+<player>
+	<name>Jonathan Baldwin</name>
+	<team>KC WR</team>
+	<points>72</points>
+</player>
+<player>
+	<name>Devin Hester</name>
+	<team>Chi WR</team>
+	<points>71</points>
+</player>
+<player>
+	<name>Brian Westbrook</name>
+	<team>FA RB</team>
+	<points>67</points>
+</player>
+<player>
+	<name>Stevan Ridley</name>
+	<team>NE RB</team>
+	<points>37</points>
+</player>
+<player>
+	<name>Devery Henderson</name>
+	<team>NO WR</team>
+	<points>73</points>
+</player>
+<player>
+	<name>Clinton Portis</name>
+	<team>FA RB</team>
+	<points>40</points>
+</player>
+<player>
+	<name>Joe McKnight</name>
+	<team>NYJ RB</team>
+	<points>47</points>
+</player>
+<player>
+	<name>Jamie Harper</name>
+	<team>Ten RB</team>
+	<points>31</points>
+</player>
+<player>
+	<name>Maurice Morris</name>
+	<team>Det RB</team>
+	<points>67</points>
+</player>
+<player>
+	<name>Kevin Smith</name>
+	<team>FA RB</team>
+	<points>57</points>
+</player>
+<player>
+	<name>Eric Decker</name>
+	<team>Den WR</team>
+	<points>63</points>
+</player>
+<player>
+	<name>Heath Miller</name>
+	<team>Pit TE</team>
+	<points>70</points>
+</player>
+<player>
+	<name>Tiki Barber</name>
+	<team>FA RB</team>
+	<points>46</points>
+</player>
+<player>
+	<name>Kevin Ogletree</name>
+	<team>Dal WR</team>
+	<points>65</points>
+</player>
+<player>
+	<name>Marcel Reece</name>
+	<team>Oak RB</team>
+	<points>57</points>
+</player>
+<player>
+	<name>Keiland Williams</name>
+	<team>Wsh RB</team>
+	<points>54</points>
+</player>
+<player>
+	<name>Cam Newton</name>
+	<team>Car QB</team>
+	<points>108</points>
+</player>
+<player>
+	<name>Tarvaris Jackson</name>
+	<team>Sea QB</team>
+	<points>77</points>
+</player>
+<player>
+	<name>Leon Washington</name>
+	<team>Sea RB</team>
+	<points>33</points>
+</player>
+<player>
+	<name>Mewelde Moore</name>
+	<team>Pit RB</team>
+	<points>57</points>
+</player>
+<player>
+	<name>John Beck</name>
+	<team>Wsh QB</team>
+	<points>100</points>
+</player>
+<player>
+	<name>LaRod Stephens-Howling</name>
+	<team>Ari RB</team>
+	<points>55</points>
+</player>
+<player>
+	<name>Deji Karim</name>
+	<team>Jac RB</team>
+	<points>40</points>
+</player>
+<player>
+	<name>Jason Avant</name>
+	<team>Phi WR</team>
+	<points>68</points>
+</player>
+<player>
+	<name>Andy Dalton</name>
+	<team>Cin QB</team>
+	<points>126</points>
+</player>
+<player>
+	<name>Jordan Shipley</name>
+	<team>Cin WR</team>
+	<points>75</points>
+</player>
+<player>
+	<name>Matt Bryant</name>
+	<team>Atl K</team>
+	<points>110</points>
+</player>
+<player>
+	<name>Taiwan Jones</name>
+	<team>Oak RB</team>
+	<points>43</points>
+</player>
+<player>
+	<name>Josh Morgan</name>
+	<team>SF WR</team>
+	<points>56</points>
+</player>
+<player>
+	<name>Eddie Royal</name>
+	<team>Den WR</team>
+	<points>63</points>
+</player>
+<player>
+	<name>Jay Feely</name>
+	<team>Ari K</team>
+	<points>108</points>
+</player>
+<player>
+	<name>Visanthe Shiancoe</name>
+	<team>Min TE</team>
+	<points>63</points>
+</player>
+<player>
+	<name>Steve Slaton</name>
+	<team>Hou RB</team>
+	<points>22</points>
+</player>
+<player>
+	<name>Travis Beckum</name>
+	<team>NYG TE</team>
+	<points>58</points>
+</player>
+<player>
+	<name>Donnie Avery</name>
+	<team>StL WR</team>
+	<points>71</points>
+</player>
+<player>
+	<name>Torrey Smith</name>
+	<team>Bal WR</team>
+	<points>45</points>
+</player>
+<player>
+	<name>Ed Dickson</name>
+	<team>Bal TE</team>
+	<points>54</points>
+</player>
+<player>
+	<name>Anthony Fasano</name>
+	<team>Mia TE</team>
+	<points>62</points>
+</player>
+<player>
+	<name>Chris Ivory</name>
+	<team>NO RB</team>
+	<points>30</points>
+</player>
+<player>
+	<name>Jerricho Cotchery</name>
+	<team>Pit WR</team>
+	<points>70</points>
+</player>
+<player>
+	<name>Keith Toston</name>
+	<team>StL RB</team>
+	<points>15</points>
+</player>
+<player>
+	<name>Devin Aromashodu</name>
+	<team>Min WR</team>
+	<points>66</points>
+</player>
+<player>
+	<name>Randall Cobb</name>
+	<team>GB WR</team>
+	<points>66</points>
+</player>
+<player>
+	<name>Dion Lewis</name>
+	<team>Phi RB</team>
+	<points>35</points>
+</player>
+<player>
+	<name>Ryan Longwell</name>
+	<team>Min K</team>
+	<points>101</points>
+</player>
+<player>
+	<name>Jonathan Dwyer</name>
+	<team>Pit RB</team>
+	<points>11</points>
+</player>
+<player>
+	<name>Dan Carpenter</name>
+	<team>Mia K</team>
+	<points>99</points>
+</player>
+<player>
+	<name>John Kuhn</name>
+	<team>GB RB</team>
+	<points>33</points>
+</player>
+<player>
+	<name>Laurence Maroney</name>
+	<team>FA RB</team>
+	<points>22</points>
+</player>
+<player>
+	<name>Michael Hoomanawanui</name>
+	<team>StL TE</team>
+	<points>58</points>
+</player>
+<player>
+	<name>Patrick Crayton</name>
+	<team>SD WR</team>
+	<points>67</points>
+</player>
+<player>
+	<name>Chester Taylor</name>
+	<team>Chi RB</team>
+	<points>74</points>
+</player>
+<player>
+	<name>Brandon Tate</name>
+	<team>NE WR</team>
+	<points>73</points>
+</player>
+<player>
+	<name>Danny Ware</name>
+	<team>NYG RB</team>
+	<points>20</points>
+</player>
+<player>
+	<name>Bilal Powell</name>
+	<team>NYJ RB</team>
+	<points>16</points>
+</player>
+<player>
+	<name>Lance Kendricks</name>
+	<team>StL TE</team>
+	<points>49</points>
+</player>
+<player>
+	<name>Brandon LaFell</name>
+	<team>Car WR</team>
+	<points>71</points>
+</player>
+<player>
+	<name>Robbie Gould</name>
+	<team>Chi K</team>
+	<points>102</points>
+</player>
+<player>
+	<name>David Buehler</name>
+	<team>Dal K</team>
+	<points>100</points>
+</player>
+<player>
+	<name>Kregg Lumpkin</name>
+	<team>TB RB</team>
+	<points>30</points>
+</player>
+<player>
+	<name>Julius Jones</name>
+	<team>FA RB</team>
+	<points>20</points>
+</player>
+<player>
+	<name>Fred Davis</name>
+	<team>Wsh TE</team>
+	<points>49</points>
+</player>

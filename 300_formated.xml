@@ -1,0 +1,2100 @@
+<player>
+	<name>Adrian Peterson</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>RB1</pos_rank>
+	<cost>$59</cost>
+</player>
+<player>
+	<name>Arian Foster</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>RB2</pos_rank>
+	<cost>$57</cost>
+</player>
+<player>
+	<name>Chris Johnson</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>RB3</pos_rank>
+	<cost>$56</cost>
+</player>
+<player>
+	<name>Jamaal Charles</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>RB4</pos_rank>
+	<cost>$53</cost>
+</player>
+<player>
+	<name>Maurice Jones-Drew</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>RB5</pos_rank>
+	<cost>$52</cost>
+</player>
+<player>
+	<name>Ray Rice</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>RB6</pos_rank>
+	<cost>$50</cost>
+</player>
+<player>
+	<name>Aaron Rodgers</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>QB1</pos_rank>
+	<cost>$49</cost>
+</player>
+<player>
+	<name>LeSean McCoy</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>RB7</pos_rank>
+	<cost>$48</cost>
+</player>
+<player>
+	<name>Andre Johnson</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>WR1</pos_rank>
+	<cost>$47</cost>
+</player>
+<player>
+	<name>Michael Vick</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>QB2</pos_rank>
+	<cost>$45</cost>
+</player>
+<player>
+	<name>Roddy White</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>WR2</pos_rank>
+	<cost>$43</cost>
+</player>
+<player>
+	<name>Rashard Mendenhall</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>RB8</pos_rank>
+	<cost>$43</cost>
+</player>
+<player>
+	<name>Frank Gore</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>RB9</pos_rank>
+	<cost>$41</cost>
+</player>
+<player>
+	<name>Greg Jennings</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>WR3</pos_rank>
+	<cost>$40</cost>
+</player>
+<player>
+	<name>Michael Turner</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>RB10</pos_rank>
+	<cost>$38</cost>
+</player>
+<player>
+	<name>Drew Brees</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>QB3</pos_rank>
+	<cost>$37</cost>
+</player>
+<player>
+	<name>Hakeem Nicks</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>WR4</pos_rank>
+	<cost>$35</cost>
+</player>
+<player>
+	<name>Calvin Johnson</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>WR5</pos_rank>
+	<cost>$34</cost>
+</player>
+<player>
+	<name>Steven Jackson</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>RB11</pos_rank>
+	<cost>$32</cost>
+</player>
+<player>
+	<name>Tom Brady</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>QB4</pos_rank>
+	<cost>$30</cost>
+</player>
+<player>
+	<name>Darren McFadden</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>RB12</pos_rank>
+	<cost>$28</cost>
+</player>
+<player>
+	<name>Peyton Manning</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>QB5</pos_rank>
+	<cost>$27</cost>
+</player>
+<player>
+	<name>Larry Fitzgerald</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>WR6</pos_rank>
+	<cost>$27</cost>
+</player>
+<player>
+	<name>Mike Wallace</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>WR7</pos_rank>
+	<cost>$26</cost>
+</player>
+<player>
+	<name>Peyton Hillis</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>RB13</pos_rank>
+	<cost>$26</cost>
+</player>
+<player>
+	<name>Vincent Jackson</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>WR8</pos_rank>
+	<cost>$24</cost>
+</player>
+<player>
+	<name>Matt Forte</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>RB14</pos_rank>
+	<cost>$24</cost>
+</player>
+<player>
+	<name>Reggie Wayne</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>WR9</pos_rank>
+	<cost>$23</cost>
+</player>
+<player>
+	<name>Philip Rivers</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>QB6</pos_rank>
+	<cost>$22</cost>
+</player>
+<player>
+	<name>DeAngelo Williams</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>RB15</pos_rank>
+	<cost>$21</cost>
+</player>
+<player>
+	<name>Miles Austin</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>WR10</pos_rank>
+	<cost>$20</cost>
+</player>
+<player>
+	<name>DeSean Jackson</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>WR11</pos_rank>
+	<cost>$19</cost>
+</player>
+<player>
+	<name>Ahmad Bradshaw</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>RB16</pos_rank>
+	<cost>$19</cost>
+</player>
+<player>
+	<name>Dez Bryant</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>WR12</pos_rank>
+	<cost>$18</cost>
+</player>
+<player>
+	<name>Knowshon Moreno</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>RB17</pos_rank>
+	<cost>$18</cost>
+</player>
+<player>
+	<name>Antonio Gates</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>TE1</pos_rank>
+	<cost>$18</cost>
+</player>
+<player>
+	<name>Dwayne Bowe</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>WR13</pos_rank>
+	<cost>$18</cost>
+</player>
+<player>
+	<name>Jonathan Stewart</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>RB18</pos_rank>
+	<cost>$17</cost>
+</player>
+<player>
+	<name>Mike Williams</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>WR14</pos_rank>
+	<cost>$17</cost>
+</player>
+<player>
+	<name>LeGarrette Blount</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>RB19</pos_rank>
+	<cost>$17</cost>
+</player>
+<player>
+	<name>Jeremy Maclin</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>WR15</pos_rank>
+	<cost>$17</cost>
+</player>
+<player>
+	<name>Tony Romo</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>QB7</pos_rank>
+	<cost>$17</cost>
+</player>
+<player>
+	<name>Marques Colston</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>WR16</pos_rank>
+	<cost>$16</cost>
+</player>
+<player>
+	<name>Jahvid Best</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>RB20</pos_rank>
+	<cost>$16</cost>
+</player>
+<player>
+	<name>BenJarvus Green-Ellis</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>RB21</pos_rank>
+	<cost>$16</cost>
+</player>
+<player>
+	<name>Brandon Lloyd</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>WR17</pos_rank>
+	<cost>$16</cost>
+</player>
+<player>
+	<name>Matt Schaub</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>QB8</pos_rank>
+	<cost>$15</cost>
+</player>
+<player>
+	<name>Felix Jones</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>RB22</pos_rank>
+	<cost>$15</cost>
+</player>
+<player>
+	<name>Santonio Holmes</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>WR18</pos_rank>
+	<cost>$14</cost>
+</player>
+<player>
+	<name>Dallas Clark</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>TE2</pos_rank>
+	<cost>$14</cost>
+</player>
+<player>
+	<name>Ryan Grant</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>RB23</pos_rank>
+	<cost>$14</cost>
+</player>
+<player>
+	<name>Kenny Britt</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>WR19</pos_rank>
+	<cost>$13</cost>
+</player>
+<player>
+	<name>Ben Roethlisberger</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>QB9</pos_rank>
+	<cost>$13</cost>
+</player>
+<player>
+	<name>Ryan Mathews</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>RB24</pos_rank>
+	<cost>$13</cost>
+</player>
+<player>
+	<name>Steve Johnson</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>WR20</pos_rank>
+	<cost>$12</cost>
+</player>
+<player>
+	<name>Jason Witten</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>TE3</pos_rank>
+	<cost>$12</cost>
+</player>
+<player>
+	<name>Percy Harvin</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>WR21</pos_rank>
+	<cost>$12</cost>
+</player>
+<player>
+	<name>Cedric Benson</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>RB25</pos_rank>
+	<cost>$12</cost>
+</player>
+<player>
+	<name>Wes Welker</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>WR22</pos_rank>
+	<cost>$11</cost>
+</player>
+<player>
+	<name>Mario Manningham</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>WR23</pos_rank>
+	<cost>$11</cost>
+</player>
+<player>
+	<name>Jermichael Finley</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>TE4</pos_rank>
+	<cost>$11</cost>
+</player>
+<player>
+	<name>Fred Jackson</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>RB26</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Anquan Boldin</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>WR24</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Josh Freeman</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>QB10</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Shonn Greene</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>RB27</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Brandon Marshall</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>WR25</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Mark Ingram</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>RB28</pos_rank>
+	<cost>$10</cost>
+</player>
+<player>
+	<name>Austin Collie</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>WR26</pos_rank>
+	<cost>$9</cost>
+</player>
+<player>
+	<name>Vernon Davis</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>TE5</pos_rank>
+	<cost>$9</cost>
+</player>
+<player>
+	<name>Daniel Thomas</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>RB29</pos_rank>
+	<cost>$9</cost>
+</player>
+<player>
+	<name>Sidney Rice</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>WR27</pos_rank>
+	<cost>$9</cost>
+</player>
+<player>
+	<name>Marshawn Lynch</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>RB30</pos_rank>
+	<cost>$9</cost>
+</player>
+<player>
+	<name>Matt Ryan</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>QB11</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Pierre Garcon</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>WR28</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Beanie Wells</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>RB31</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Pierre Thomas</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>RB32</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Santana Moss</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>WR29</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Joseph Addai</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>RB33</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Eli Manning</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>QB12</pos_rank>
+	<cost>$8</cost>
+</player>
+<player>
+	<name>Steve Smith</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>WR30</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>Ryan Williams</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>RB34</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>A.J. Green</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>WR31</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>James Starks</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>RB35</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>Johnny Knox</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>WR32</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>Malcom Floyd</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>WR33</pos_rank>
+	<cost>$7</cost>
+</player>
+<player>
+	<name>Joe Flacco</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>QB13</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Owen Daniels</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>TE6</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Mike Tolbert</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>RB36</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Mike Thomas</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>WR34</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>C.J. Spiller</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>RB37</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Chad Ochocinco</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>WR35</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Michael Bush</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>RB38</pos_rank>
+	<cost>$6</cost>
+</player>
+<player>
+	<name>Marcedes Lewis</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>TE7</pos_rank>
+	<cost>$5</cost>
+</player>
+<player>
+	<name>Lance Moore</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>WR36</pos_rank>
+	<cost>$5</cost>
+</player>
+<player>
+	<name>Brandon Jacobs</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>RB39</pos_rank>
+	<cost>$5</cost>
+</player>
+<player>
+	<name>Jordy Nelson</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>WR37</pos_rank>
+	<cost>$5</cost>
+</player>
+<player>
+	<name>Ryan Torain</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>RB40</pos_rank>
+	<cost>$5</cost>
+</player>
+<player>
+	<name>Roy Williams</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>WR38</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Sam Bradford</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>QB14</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Tim Hightower</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>RB41</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Jay Cutler</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>QB15</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Jerome Harrison</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>RB42</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Robert Meachem</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>WR39</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Matt Cassel</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>QB16</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Kellen Winslow</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>TE8</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Braylon Edwards</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>WR40</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Matthew Stafford</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>QB17</pos_rank>
+	<cost>$4</cost>
+</player>
+<player>
+	<name>Greg Olsen</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>TE9</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Pittsburgh Steelers</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>DST1</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Kevin Kolb</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>QB18</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Willis McGahee</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>RB43</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Julio Jones</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>WR41</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>James Jones</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>WR42</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Green Bay Packers</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>DST2</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>Zach Miller</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>TE10</pos_rank>
+	<cost>$3</cost>
+</player>
+<player>
+	<name>LaDainian Tomlinson</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>RB44</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Lee Evans</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>WR43</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Plaxico Burress</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>WR44</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Ricky Williams</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>RB45</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Jerome Simpson</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>WR45</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Reggie Bush</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>RB46</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Mark Sanchez</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>QB19</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Jimmy Graham</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>TE11</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>New York Jets</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>DST3</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Michael Crabtree</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>WR46</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>David Garrard</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>QB20</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Thomas Jones</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>RB47</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Mike Williams</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>WR47</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Baltimore Ravens</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>DST4</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Donovan McNabb</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>QB21</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Deion Branch</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>WR48</pos_rank>
+	<cost>$2</cost>
+</player>
+<player>
+	<name>Brandon Pettigrew</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>TE12</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Hines Ward</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>WR49</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Rob Gronkowski</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>TE13</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Davone Bess</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>WR50</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Kyle Orton</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>QB22</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Jason Campbell</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>QB23</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Ryan Fitzpatrick</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>QB24</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Jacoby Ford</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>WR51</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Tony Gonzalez</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>TE14</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Danny Woodhead</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>RB48</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Philadelphia Eagles</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>DST5</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Montario Hardesty</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>RB49</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Mike Sims-Walker</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>WR52</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Ronnie Brown</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>RB50</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Chicago Bears</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>DST6</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Atlanta Falcons</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>DST7</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>New Orleans Saints</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>DST8</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Nate Kaeding</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>K1</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>New England Patriots</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>DST9</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Neil Rackers</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>K2</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Josh Brown</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>K3</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>San Diego Chargers</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>DST10</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Rob Bironas</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>K4</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Stephen Gostkowski</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>K5</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Garrett Hartley</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>K6</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Billy Cundiff</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>K7</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Mason Crosby</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>K8</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Alex Henery</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>K9</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Nick Folk</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>K10</pos_rank>
+	<cost>$1</cost>
+</player>
+<player>
+	<name>Darren Sproles</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>RB51</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Dustin Keller</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>TE15</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Rashad Jennings</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>RB52</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Donald Driver</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>WR53</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Roy Helu</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>RB53</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Derrick Mason</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>WR54</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Chris Cooley</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>TE16</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Ben Tate</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>RB54</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Anthony Dixon</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>RB55</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Shane Vereen</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>RB56</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>DeMarco Murray</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>RB57</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Steve Breaston</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>WR55</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Matt Hasselbeck</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>QB25</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jacoby Jones</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>WR56</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Nate Burleson</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>WR57</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Mike Goodson</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>RB58</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jason Snelling</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>RB59</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kansas City Chiefs</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>DST11</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Bernard Scott</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>RB60</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Detroit Lions</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>DST12</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Tony Moeaki</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>TE17</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Toby Gerhart</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>RB61</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Cadillac Williams</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>RB62</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Derrick Ward</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>RB63</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Danario Alexander</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>WR58</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Danny Amendola</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>WR59</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jared Cook</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>TE18</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Marion Barber</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>RB64</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Adam Vinatieri</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>K11</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Sebastian Janikowski</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>K12</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kevin Walter</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>WR60</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jalen Parmele</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>RB65</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Emmanuel Sanders</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>WR61</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jason Hill</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>WR62</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Ben Watson</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>TE19</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Louis Murphy</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>WR63</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Justin Forsett</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>RB66</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Aaron Hernandez</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>TE20</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Colt McCoy</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>QB26</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Bernard Berrian</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>WR64</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Andre Roberts</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>WR65</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Anthony Armstrong</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>WR66</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Donald Brown</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>RB67</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Randy Moss</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>WR67</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Javon Ringer</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>RB68</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Chad Henne</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>QB27</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Todd Heap</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>TE21</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Tashard Choice</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>RB69</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Greg Little</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>WR68</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Antonio Brown</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>WR69</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Brandon Jackson</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>RB70</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kendall Hunter</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>RB71</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Delone Carter</name>
+	<team>IND</team>
+	<bye>11</bye>
+	<pos_rank>RB72</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jacquizz Rodgers</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>RB73</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>New York Giants</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>DST13</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Alex Green</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>RB74</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Brent Celek</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>TE22</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jermaine Gresham</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>TE23</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jerious Norwood</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>RB75</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Roscoe Parrish</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>WR70</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Alex Smith</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>QB28</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kevin Boss</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>TE24</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Earl Bennett</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>WR71</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Nate Washington</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>WR72</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Earnest Graham</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>RB76</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Titus Young</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>WR73</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Isaac Redman</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>RB77</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Le'Ron McClain</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>RB78</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Leonard Hankerson</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>WR74</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Arrelious Benn</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>WR75</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jordan Todman</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>RB79</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Steve Smith</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>WR76</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Michael Jenkins</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>WR77</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Terrell Owens</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>WR78</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Mohamed Massaquoi</name>
+	<team>CLE</team>
+	<bye>5</bye>
+	<pos_rank>WR79</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jonathan Baldwin</name>
+	<team>KC</team>
+	<bye>6</bye>
+	<pos_rank>WR80</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Devin Hester</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>WR81</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Brian Westbrook</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB80</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Stevan Ridley</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>RB81</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Devery Henderson</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>WR82</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Clinton Portis</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB82</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Joe McKnight</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>RB83</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Fred Davis</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>TE25</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jamie Harper</name>
+	<team>TEN</team>
+	<bye>6</bye>
+	<pos_rank>RB84</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Maurice Morris</name>
+	<team>DET</team>
+	<bye>9</bye>
+	<pos_rank>RB85</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kevin Smith</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB86</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Eric Decker</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>WR83</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Heath Miller</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>TE26</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Tiki Barber</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB87</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kevin Ogletree</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>WR84</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Marcel Reece</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>RB88</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Keiland Williams</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>RB89</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Cam Newton</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>QB29</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Tarvaris Jackson</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>QB30</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Leon Washington</name>
+	<team>SEA</team>
+	<bye>6</bye>
+	<pos_rank>RB90</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Mewelde Moore</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB91</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>John Beck</name>
+	<team>WAS</team>
+	<bye>5</bye>
+	<pos_rank>QB31</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>David Nelson</name>
+	<team>BUF</team>
+	<bye>7</bye>
+	<pos_rank>WR85</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>LaRod Stephens-Howling</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>RB92</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Deji Karim</name>
+	<team>JAC</team>
+	<bye>9</bye>
+	<pos_rank>RB93</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jason Avant</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>WR86</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Andy Dalton</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>QB32</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jordan Shipley</name>
+	<team>CIN</team>
+	<bye>7</bye>
+	<pos_rank>WR87</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Matt Bryant</name>
+	<team>ATL</team>
+	<bye>8</bye>
+	<pos_rank>K13</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Taiwan Jones</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>RB94</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Josh Morgan</name>
+	<team>SF</team>
+	<bye>7</bye>
+	<pos_rank>WR88</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Eddie Royal</name>
+	<team>DEN</team>
+	<bye>6</bye>
+	<pos_rank>WR89</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jay Feely</name>
+	<team>ARI</team>
+	<bye>6</bye>
+	<pos_rank>K14</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Visanthe Shiancoe</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>TE27</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Steve Slaton</name>
+	<team>HOU</team>
+	<bye>11</bye>
+	<pos_rank>RB95</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Travis Beckum</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>TE28</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Donnie Avery</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>WR90</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Torrey Smith</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>WR91</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kyle Rudolph</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>TE29</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Ed Dickson</name>
+	<team>BAL</team>
+	<bye>5</bye>
+	<pos_rank>TE30</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Chris Ivory</name>
+	<team>NO</team>
+	<bye>11</bye>
+	<pos_rank>RB96</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jerricho Cotchery</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>WR92</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Keith Toston</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>RB97</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Devin Aromashodu</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>WR93</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Randall Cobb</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>WR94</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Dion Lewis</name>
+	<team>PHI</team>
+	<bye>7</bye>
+	<pos_rank>RB98</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Ryan Longwell</name>
+	<team>MIN</team>
+	<bye>9</bye>
+	<pos_rank>K15</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Jonathan Dwyer</name>
+	<team>PIT</team>
+	<bye>11</bye>
+	<pos_rank>RB99</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Dan Carpenter</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>K16</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>John Kuhn</name>
+	<team>GB</team>
+	<bye>8</bye>
+	<pos_rank>RB100</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Oakland Raiders</name>
+	<team>OAK</team>
+	<bye>8</bye>
+	<pos_rank>DST14</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Laurence Maroney</name>
+	<team>FA</team>
+	<bye>TBD</bye>
+	<pos_rank>RB101</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Anthony Fasano</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>TE31</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Patrick Crayton</name>
+	<team>SD</team>
+	<bye>6</bye>
+	<pos_rank>WR95</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Chester Taylor</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>RB102</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Brandon Tate</name>
+	<team>NE</team>
+	<bye>7</bye>
+	<pos_rank>WR96</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Danny Ware</name>
+	<team>NYG</team>
+	<bye>7</bye>
+	<pos_rank>RB103</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Bilal Powell</name>
+	<team>NYJ</team>
+	<bye>8</bye>
+	<pos_rank>RB104</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Michael Hoomanawanui</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>TE32</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Brandon LaFell</name>
+	<team>CAR</team>
+	<bye>9</bye>
+	<pos_rank>WR97</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Robbie Gould</name>
+	<team>CHI</team>
+	<bye>8</bye>
+	<pos_rank>K17</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>David Buehler</name>
+	<team>DAL</team>
+	<bye>5</bye>
+	<pos_rank>K18</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Miami Dolphins</name>
+	<team>MIA</team>
+	<bye>5</bye>
+	<pos_rank>DST15</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>St. Louis Rams</name>
+	<team>STL</team>
+	<bye>5</bye>
+	<pos_rank>DST16</pos_rank>
+	<cost>$0</cost>
+</player>
+<player>
+	<name>Kregg Lumpkin</name>
+	<team>TB</team>
+	<bye>8</bye>
+	<pos_rank>RB105</pos_rank>
+	<cost>$0</cost>
+</player>
