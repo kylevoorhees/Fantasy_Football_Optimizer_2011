@@ -45,11 +45,25 @@ public class FantasyFootball {
 		
 			pList.addItemListener(new ItemListener(){
  				public void itemStateChanged(ItemEvent ie){
-					setValues();
-  				}
-  				public void itemSelected(ItemEvent ie){
-  					System.out.println("Item selected");
-  				}
+			        JComboBox cb = (JComboBox)ie.getSource();
+
+			        // Get the affected item
+        			Object item = ie.getItem();
+
+			        if (ie.getStateChange() == ItemEvent.SELECTED) {
+           			 	// Item was just selected
+           			 	String str = (String)ie.getItem();
+           			 	Player player = league.getPlayer(str);
+           			 	player.use();
+            			System.out.println("Player:" + str + " has been selected");
+        			} else if (ie.getStateChange() == ItemEvent.DESELECTED) {
+            			// Item was just deselected
+           			 	String str = (String)ie.getItem();
+           			 	Player player = league.getPlayer(str);
+           			 	player.free();
+            			System.out.println("Player:" + str + " has been deselected");
+            		}
+    			}
   			});
   			
 		}

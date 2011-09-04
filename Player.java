@@ -78,11 +78,16 @@ public class Player {
 	}
 	
 	public void use(){
-		System.out.println("Player: " + name + " in use");
-		in_use = true;
+		if name.equals(" "){
+			System.out.println("Not updating: " + name);
+		} else {
+			System.out.println("Player: " + name + " in use");
+			in_use = true;
+		}
 	}
 	
 	public void free(){
+		System.out.println("Player: " + name + " no longer in use");
 		in_use = false;
 	}
 	
