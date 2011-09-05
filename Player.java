@@ -1,4 +1,4 @@
-public class Player {
+public class Player implements Comparable<Object> {
 	private String 	name;
 	private String  team;
 	private String  position;
@@ -57,6 +57,10 @@ public class Player {
 		return cost;
 	}
 	
+	public boolean getUse(){
+		return in_use;
+	}
+	
 	public void setName(String n){
 		name = n;
 	}
@@ -77,8 +81,12 @@ public class Player {
 		cost = c;
 	}
 	
+	public String toString(){
+		return name;
+	}
+	
 	public void use(){
-		if name.equals(" "){
+		if (name.equals(" ")){
 			System.out.println("Not updating: " + name);
 		} else {
 			System.out.println("Player: " + name + " in use");
@@ -87,12 +95,23 @@ public class Player {
 	}
 	
 	public void free(){
-		System.out.println("Player: " + name + " no longer in use");
-		in_use = false;
+		if (name.equals(" ")){
+			System.out.println("Not updating: " + name);
+		} else {
+			System.out.println("Player: " + name + " no longer in use");
+			in_use = false;
+		}
 	}
 	
 	public static void main(String args[]){
 		System.out.println("Player Class");
 	}
+	
+	public int compareTo(Object anotherPlayer) throws ClassCastException {
+    	if (!(anotherPlayer instanceof Player))
+      		throw new ClassCastException("A Player object expected.");
+    	int anotherPlayerCost = ((Player) anotherPlayer).getCost();  
+    	return anotherPlayerCost - this.cost;    
+  	}
 	
 }

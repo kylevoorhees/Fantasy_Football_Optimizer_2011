@@ -56,12 +56,13 @@ public class FantasyFootball {
            			 	Player player = league.getPlayer(str);
            			 	player.use();
             			System.out.println("Player:" + str + " has been selected");
+            			setValues();
         			} else if (ie.getStateChange() == ItemEvent.DESELECTED) {
             			// Item was just deselected
            			 	String str = (String)ie.getItem();
            			 	Player player = league.getPlayer(str);
            			 	player.free();
-            			System.out.println("Player:" + str + " has been deselected");
+            			System.out.println("Player: " + str + " has been deselected");
             		}
     			}
   			});

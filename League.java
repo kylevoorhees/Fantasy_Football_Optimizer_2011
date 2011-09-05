@@ -76,11 +76,20 @@ public class League{
 	}
 	
 	public String[] toArray(){
-		ArrayList <String> playerList = new ArrayList <String>(players.keySet());
-		Collections.sort(playerList);
+		ArrayList <Player> playerObjectList = new ArrayList <Player>(players.values());
+		System.out.println("Sorting based on value");
+		Collections.sort(playerObjectList);
 		
-		String[] players = playerList.toArray(new String[playerList.size()]);
-		return players;
+		System.out.println("Building list");
+		String [] playerNames = new String[playerObjectList.size()];
+		
+		for (int i = 0; i<playerObjectList.size(); i++){
+			String str = playerObjectList.get(i).toString();
+			Player player = players.get(str);
+			playerNames[i] = str;
+		}
+		
+		return playerNames;
 	}
 	
 	public void addPlayer(String name, String team, String position, int points, int cost){
