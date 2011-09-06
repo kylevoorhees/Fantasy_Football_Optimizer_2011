@@ -19,16 +19,20 @@ public class FantasyFootball {
 	
 	public class PlayerPanel{
 		private JPanel panel;
+		private JTextField pType;
 		private JComboBox pList;
 		private JTextField pTeam;
 		private JTextField pPosition;
 		private JTextField pPoints;
 		private JTextField pCost;
 		
-		PlayerPanel(){
+		PlayerPanel(String position){
 			panel = new JPanel();
 		
-			pList = new JComboBox(league.toArray());
+			pType = new JTextField(4);
+			pType.setText(position);
+		
+			pList = new JComboBox(league.toArray(position));
 			pList.setSelectedIndex(0);
 		
 			pTeam = new JTextField(4);
@@ -36,6 +40,7 @@ public class FantasyFootball {
 			pPoints = new JTextField(5);
 			pCost   = new JTextField(5);
 		
+			panel.add(pType);
 			panel.add(pList);
 			panel.add(pTeam);
 			panel.add(pPosition);
@@ -114,14 +119,15 @@ public class FantasyFootball {
 		System.out.println("Building GUI....");
 		frame = new JFrame("Fantasy Football Builder");
 		
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());
-		playerPanels.add(new PlayerPanel());		
-  		
+		playerPanels.add(new PlayerPanel("QB"));
+		playerPanels.add(new PlayerPanel("RB"));
+		playerPanels.add(new PlayerPanel("RB"));
+		playerPanels.add(new PlayerPanel("FLEX"));		
+		playerPanels.add(new PlayerPanel("WR"));
+		playerPanels.add(new PlayerPanel("WR"));		
+		playerPanels.add(new PlayerPanel("TE"));
+		playerPanels.add(new PlayerPanel("K"));		
+		
   	 	panel = new JPanel();
   		Iterator itr = playerPanels.iterator();
     	while(itr.hasNext()){
@@ -135,7 +141,7 @@ public class FantasyFootball {
 		
 		frame.add(panel);
 		
-		frame.setSize(600,400);
+		frame.setSize(600,675);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 		

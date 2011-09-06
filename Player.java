@@ -6,7 +6,7 @@ public class Player implements Comparable<Object> {
 	private int		cost;
 	private boolean in_use;
 	
-	Player(String n, String t, String p, int pts, int c){
+	Player(String n, String t, String p, int pts, int c){		
 		setName(n);
 		setTeam(t);
 		setPosition(p);
@@ -110,8 +110,13 @@ public class Player implements Comparable<Object> {
 	public int compareTo(Object anotherPlayer) throws ClassCastException {
     	if (!(anotherPlayer instanceof Player))
       		throw new ClassCastException("A Player object expected.");
-    	int anotherPlayerCost = ((Player) anotherPlayer).getCost();  
-    	return anotherPlayerCost - this.cost;    
+    	int anotherPlayerCost = ((Player) anotherPlayer).getCost(); 
+    	String anotherPlayerName = ((Player) anotherPlayer).getName();
+    	if (anotherPlayerName.equals(" ")){
+    		return this.cost - 100;
+    	} else {
+ 		   	return anotherPlayerCost - this.cost;
+ 		}
   	}
 	
 }

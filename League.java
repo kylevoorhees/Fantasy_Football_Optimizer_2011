@@ -75,21 +75,29 @@ public class League{
 		return players.get(p);
 	}
 	
-	public String[] toArray(){
+	public String[] toArray(String position){
 		ArrayList <Player> playerObjectList = new ArrayList <Player>(players.values());
+		
 		System.out.println("Sorting based on value");
 		Collections.sort(playerObjectList);
 		
 		System.out.println("Building list");
-		String [] playerNames = new String[playerObjectList.size()];
-		
+		ArrayList <String> playerNames = new ArrayList <String>();
+
+		// Remove players from list that don't match position		
 		for (int i = 0; i<playerObjectList.size(); i++){
 			String str = playerObjectList.get(i).toString();
 			Player player = players.get(str);
-			playerNames[i] = str;
+			if ((position.equals("FLEX") &&
+				(player.getPosition().equals("RB") ||
+				 player.getPosition().equals("WR") ||
+				 player.getPosition().equals("TE")))			 
+			|| (player.getPosition().equals(position))){
+				playerNames.add(str);
+			}
 		}
 		
-		return playerNames;
+		return (String []) playerNames.toArray(new String[playerNames.size()]);
 	}
 	
 	public void addPlayer(String name, String team, String position, int points, int cost){
